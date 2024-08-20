@@ -17,7 +17,7 @@ Thank You for taking the time to check this out.
 
 
 MAIN PAGE:
-![book-list](https://github.com/user-attachments/assets/d5076da8-4b2d-44c2-89ba-0a9872645ede)
+![book-list](https://github.com/user-attachments/assets/92ab7a2d-f485-4ee3-b135-1ecdf6963b8c)
 
 WHEN YOU CLICK ON A BOOK:
 ![Harry-PotterPage](https://github.com/user-attachments/assets/af190b4e-63c0-446a-a252-0c2ef58bbae7)
