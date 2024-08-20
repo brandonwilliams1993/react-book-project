@@ -1,3 +1,35 @@
+This Project is a Book Library I made using React, along with JavaScript, HTML, CSS, and JSX. 
+Each book link will take you to a page where you can purchase that book to read at a later time. 
+I have also added link to Audible for immediate reading, as well as the NY Times best selling books of this year. 
+
+I have included two additional pages for "Favorites" (Where a user can keep a collection of their favorite books) 
+and a "Catalog" page (Where a user can find different series of books all in one place, such as all of the Harry Potter books, or the Lord of the Rings for example)
+
+This is my first published React project. 
+
+My next project with involve React-Native. 
+
+Thank You for taking the time to check this out. 
+
+- Brandon Cruz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REACT INFORMATION BELOW:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
