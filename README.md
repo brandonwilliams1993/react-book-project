@@ -16,9 +16,14 @@ Thank You for taking the time to check this out.
 
 
 
-
+MAIN PAGE:
 ![book-list](https://github.com/user-attachments/assets/d5076da8-4b2d-44c2-89ba-0a9872645ede)
 
+WHEN YOU CLICK ON A BOOK:
+![Harry-PotterPage](https://github.com/user-attachments/assets/af190b4e-63c0-446a-a252-0c2ef58bbae7)
+
+NY TIMES PAGE:
+![NYTimesPage](https://github.com/user-attachments/assets/b2664df8-dd62-44ae-b07c-a86e62529c6b)
 
 
 
