@@ -1,14 +1,18 @@
 .navbar {
-    background: #636363;
+    background-color: #636363; /* Background color */
     padding: 10px;
     text-align: center;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
+    width: 50px; /* Width of the navbar */
+    height: 100vh; /* Full height of the viewport */
+    position: fixed; /* Fixes the navbar to the left side */
+    left: 0; /* Aligns the navbar to the left edge */
+    top: 0; /* Aligns the navbar to the top */
     z-index: 1000;
+    padding-top: 20px; /* Space at the top */
+    box-shadow: 2px 0 5px white; /* Adds a slight shadow for a 3D effect */
+
     body { 
-    padding-top: 65px; 
+    padding-left: 65px; 
 }
 
 }
@@ -40,4 +44,24 @@
 body { 
     padding-top: 65px; 
     background-color: rgb(0, 0, 0);
+}
+
+.navbar ul {
+    list-style-type: none; /* Removes default list styling */
+    padding: 0; /* Removes default padding */
+}
+
+.navbar ul li {
+    margin: 10px 0; /* Adds space between links */
+}
+
+.navbar ul li a {
+    text-decoration: none; /* Removes underline from links */
+    color: #333; /* Text color */
+    font-weight: bold; /* Makes the text bold */
+    padding: 10px 20px; /* Adds padding inside the links */
+    display: block; /* Makes the entire area clickable */
+}
+.navbar ul li a:hover {
+    background-color: #ddd; /* Changes background on hover */
 }
