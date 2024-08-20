@@ -1,12 +1,18 @@
 import React from 'react';
-import './Navbar.css';
+// import './Navbar.css'; 
 
 const Navbar = () => {
     return (
-        <nav className="navbar">
-            <ul className="navbar-list"> 
-            </ul>
-        </nav>
+        <div className="navbar">
+            {/* <ul>
+                <li>
+                    <Link to="/catalog">Catalog</Link>
+                </li>
+                <li>
+                    <Link to="/favorites">Favorites</Link>
+                </li>
+            </ul> */}
+        </div>
     );
 };
 
