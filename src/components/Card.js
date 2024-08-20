@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "./Card.css";
 
 export const Card = ({
@@ -20,6 +21,7 @@ export const Card = ({
             {buttonText && link && (
                 <a href={link} className="card-button-link">
                     <button className="card-button">{buttonText}</button>
+                    <Link to={link} style={{ textDecoration: 'none', color: 'inherit' }}></Link>
                 </a>
             )}
         </div>
